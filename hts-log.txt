@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 25 Feb 2019 19:02:06 at https://sites.google.com/site/drrabhishekkumar +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sites.google.com/site/drrabhishekkumar -O1 "C:\My Web Sites\akweb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:04:37	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/app/pages/reportAbuse not scanned (follow robots meta tag)
+19:04:37	Error: 	"Bad Request" (400) at link https://sites.google.com/site/drrabhishekkumar/_/tz (from https://sites.google.com/site/drrabhishekkumar/)
+19:04:52	Error: 	"Not Found" (404) at link https://sites.google.com/site/draabhishekkumar/reas/goog_1719614932 (from https://sites.google.com/site/drrabhishekkumar/publications)
+19:04:52	Error: 	"Not Found" (404) at link https://sites.google.com/site/akuabhishek/www.ncbs.res.in (from https://sites.google.com/site/drrabhishekkumar/research-profile/junior-research-fellow-ncbs)
+19:05:14	Error: 	"Not Found" (404) at link https://www.biomedcentral.com/content/figures/1471-2148-8-250-2-l.jpg (from https://sites.google.com/site/drrabhishekkumar/research-profile/research-experiences)
+19:05:14	Error: 	"Not Found" (404) at link https://www.biomedcentral.com/content/figures/1471-2148-9-208-1-l.jpg (from https://sites.google.com/site/drrabhishekkumar/research-profile/research-experiences)
+19:05:30	Error: 	"Not Found" (404) at link https://accounts.google.com/POST (from https://accounts.google.com/ServiceLogin?service=jotspot&passive=1209600&continue=https://sites.google.com/site/sites/system/app/images/icon_plusone.png&followup=https://sites.google.com/site/sites/system/app/images/icon_plusone.png)
+19:05:30	Error: 	"Not Found" (404) at link https://accounts.google.com/GET (from https://accounts.google.com/ServiceLogin?service=jotspot&passive=1209600&continue=https://sites.google.com/site/sites/system/app/images/icon_plusone.png&followup=https://sites.google.com/site/sites/system/app/images/icon_plusone.png)
+19:05:56	Warning: 	Link https://sites.google.com/site/draabhishekkumar/system/app/pages/reportAbuse not scanned (follow robots meta tag)
+19:05:56	Error: 	"Bad Request" (400) at link https://sites.google.com/site/draabhishekkumar/_/tz (from https://sites.google.com/site/draabhishekkumar/reas/publications)
+19:05:58	Error: 	"Not Found" (404) at link docs.google.com/images/env.png (from https://sites.google.com/site/drrabhishekkumar/_/rsrc/1550133439000/system/app/css/camelot/error.css)
+19:06:53	Error: 	"Not Found" (404) at link https://sites.google.com/site/draabhishekkumar/_/rsrc/1404486946796/home/publications/LinkedIn.jpg (from https://sites.google.com/site/draabhishekkumar/reas/development-of-pipelines/research-experiences)
+19:06:54	Error: 	"Not Found" (404) at link https://sites.google.com/site/draabhishekkumar/_/rsrc/1404486942312/home/publications/rg_square.jpg (from https://sites.google.com/site/draabhishekkumar/reas/development-of-pipelines/research-experiences)
+19:06:54	Error: 	"Not Found" (404) at link https://sites.google.com/site/draabhishekkumar/_/rsrc/1404489605763/home/publications/Google_Scholar_Abhishek2.png (from https://sites.google.com/site/draabhishekkumar/reas/development-of-pipelines/research-experiences)
+19:06:54	Error: 	"Not Found" (404) at link https://sites.google.com/site/draabhishekkumar/_/rsrc/1404491118348/home/publications/OWWEmblemnew.jpg (from https://sites.google.com/site/draabhishekkumar/reas/development-of-pipelines/research-experiences)
+19:06:54	Error: 	"Not Found" (404) at link https://sites.google.com/site/draabhishekkumar/_/rsrc/1404488627185/home/publications/Twitter.png (from https://sites.google.com/site/draabhishekkumar/reas/development-of-pipelines/research-experiences)
+19:06:54	Error: 	"Not Found" (404) at link https://sites.google.com/site/draabhishekkumar/_/rsrc/1404486938732/home/publications/fbook.png (from https://sites.google.com/site/draabhishekkumar/reas/development-of-pipelines/research-experiences)
+19:07:15	Warning: 	Link https://sites.google.com/site/draabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:7d6709c3eb7d72dd not scanned (follow robots meta tag)
+19:07:43	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:6a959bfc6a5fb974 not scanned (follow robots meta tag)
+19:07:50	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:57382f0eff1619b2 not scanned (follow robots meta tag)
+19:07:50	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:53106ede611db42 not scanned (follow robots meta tag)
+19:07:50	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:2d50b8865303171d not scanned (follow robots meta tag)
+19:07:50	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:7e5bfcf7b31a0193 not scanned (follow robots meta tag)
+19:07:50	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:7cee43f003c0c8a7 not scanned (follow robots meta tag)
+19:08:00	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:7e7e7fe52b610c0c not scanned (follow robots meta tag)
+19:08:00	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:634fe435e2f21691 not scanned (follow robots meta tag)
+19:08:11	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:4befdd6df01202c7 not scanned (follow robots meta tag)
+19:08:11	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:766d74a96715cf7 not scanned (follow robots meta tag)
+19:08:16	Warning: 	Link https://sites.google.com/site/drrabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:b3beb24c4f171fa not scanned (follow robots meta tag)
+19:08:16	Warning: 	Link https://sites.google.com/site/draabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:7ee3c4351aa5fea0 not scanned (follow robots meta tag)
+19:08:16	Warning: 	Link https://sites.google.com/site/draabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:55b10797096b7d6 not scanned (follow robots meta tag)
+19:08:23	Warning: 	Link https://sites.google.com/site/draabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:db3f29a2400ad72 not scanned (follow robots meta tag)
+19:08:24	Warning: 	Link https://sites.google.com/site/draabhishekkumar/system/errors/NodeNotFound?suri=wuid:gx:52e55ecdde9ee706 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 18 seconds : 355 links scanned, 338 files written (39694424 bytes overall) [31258426 bytes received at 82694 bytes/sec], 12360147 bytes transferred using HTTP compression in 283 files, ratio 26%, 1.0 requests per connection
+(15 errors, 18 warnings, 0 messages)
