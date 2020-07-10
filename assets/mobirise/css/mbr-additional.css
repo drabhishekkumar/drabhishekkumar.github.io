@@ -711,27 +711,28 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-qTkA127IK8 {
-  padding-top: 135px;
-  padding-bottom: 60px;
+  padding-top: 75px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/art-artistic-background-247676-2000x1395.jpg");
 }
 .cid-s4cpNgdcM9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
 }
 .cid-s4cpNgdcM9 P {
   color: #767676;
 }
 .cid-s4cpStcAKg {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #b2ccd2;
 }
 .cid-s4cpStcAKg .title {
   margin-bottom: 2rem;
 }
 .cid-s4cpStcAKg .mbr-section-subtitle {
-  color: #767676;
+  color: #2e2e2e;
 }
 .cid-s4cpStcAKg a:not([href]):not([tabindex]) {
   color: #fff;
@@ -744,8 +745,8 @@ section.lazy-placeholder:after {
   min-height: 188px;
 }
 .cid-qTkAaeaxX5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 75px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
