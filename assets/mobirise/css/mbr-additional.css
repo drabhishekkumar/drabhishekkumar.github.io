@@ -745,9 +745,9 @@ section.lazy-placeholder:after {
   min-height: 188px;
 }
 .cid-qTkAaeaxX5 {
-  padding-top: 45px;
-  padding-bottom: 75px;
-  background-color: #2e2e2e;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/art-artistic-background-247676-2000x1395.jpg");
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
